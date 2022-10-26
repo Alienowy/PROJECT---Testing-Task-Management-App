@@ -1,5 +1,6 @@
 | **RAPORT TESTÓW EKSPLORACYJNYCH** | **Wersja dokumentu:** Raport Nr 1 |
-|**Autor:** Adrian Wąś | Data i godzina rozpoczęcia testów: <br/> 24.03.2022r. 12:20 |
+| :-- |
+| **Autor:** Adrian Wąś | Data i godzina rozpoczęcia testów: <br/> 24.03.2022r. 12:20 |
 
 
 Przedmiot testów: https://testujpl.gitlab.io/pomodoro-kanban-test/
