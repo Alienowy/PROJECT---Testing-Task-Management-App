@@ -5,7 +5,7 @@
 |***Autor:*** Adrian Wąś|***Data i godzina rozpoczęcia testów:***<br>24.03.2022r. 14:30|
 |||
 |||
-|**Przedmiot testów:** https://testujpl.gitlab.io/pomodoro-kanban-test/|
+|**Przedmiot testów:** [Pomodoro App](https://testujpl.gitlab.io/pomodoro-kanban-test/)|
 ||
 |***Środowisko testowe:*** <br>PC, Windows 10 Pro**<br>Google Chrome     Wersja 99.0.4844.51|
 ||
