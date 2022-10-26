@@ -5,7 +5,7 @@
 |***Autor:*** Adrian Wąś|***Data i godzina rozpoczęcia testów:***<br>26.03.2022r. 16:00|
 |||
 |||
-|**Przedmiot testów:** https://testujpl.gitlab.io/pomodoro-kanban-test/|
+|**Przedmiot testów:** [Pomodoro App](https://testujpl.gitlab.io/pomodoro-kanban-test/)|
 ||
 |***Środowisko testowe:*** <br>Nazwa urządzenia : HUAWEI P20<br>Wersja EMUI 10.0.0<br>Wersja aystemu Android: 10<br>Przeglądarka Chrome Wersja 99.0.4844.73|
 ||
