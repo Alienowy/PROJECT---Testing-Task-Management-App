@@ -1,4 +1,5 @@
 | **Podsumowanie z sesji testów ekploracyjnych** |
+| --- |
 | *Autor:* Adrian Wąś
 *Data:*  26.03.2022r. 
 
