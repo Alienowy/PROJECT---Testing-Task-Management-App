@@ -1,6 +1,6 @@
 | **Podsumowanie z sesji testów ekploracyjnych**
 | --- |
-| **Autor:** Adrian Wąś <br/> **Data**:  26.03.2022r. <br/> Na rzecz przeprowadzenia testów eksploracyjnych aplikacji wykonano 6 sesji,  w których przetestowano funkcjonalnie najważniejsze ze względów użytkowania funkcje aplikacji oraz niefunkcjonalnie responsywność aplikacji.
+| **Autor:** Adrian Wąś <br/> **Data**:  26.03.2022r. <br/> <br/> Na rzecz przeprowadzenia testów eksploracyjnych aplikacji wykonano 6 sesji,  w których przetestowano funkcjonalnie najważniejsze ze względów użytkowania funkcje aplikacji oraz niefunkcjonalnie responsywność aplikacji.
  
 
 Na rzecz przeprowadzenia testów eksploracyjnych aplikacji wykonano 6 sesji,  w których przetestowano funkcjonalnie najważniejsze ze względów użytkowania funkcje aplikacji oraz niefunkcjonalnie responsywność aplikacji. 
