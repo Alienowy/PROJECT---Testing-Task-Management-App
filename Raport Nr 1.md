@@ -3,28 +3,14 @@
 |**RAPORT TESTÓW EKSPLORACYJNYCH**|***Wersja dokumentu:*** Raport Nr 1|
 | :- | :- |
 |***Autor:*** Adrian Wąś|***Data i godzina rozpoczęcia testów:***<br>24.03.2022r. 12:20|
-|||
-|||
 |***Przedmiot testów:*** https://testujpl.gitlab.io/pomodoro-kanban-test/|
 ||
 |***Środowisko testowe:*** <br>PC, Windows 10 Pro**<br>Google Chrome     Wersja 99.0.4844.51<br>Opera                    Wersja 85.0.4341.18<br>Firefox                   Wersja 98.0.2<br>Edge                     Wersja 99.0.1150.52|
-||
-||
 |**Czas trwania sesji:** 90 minut|
 |***Czas przygotowania środowiska:*** <br>10 min|***Czas eksploracji:***<br>50 min|***Czas raportowania:***<br>30 min|
 |***Cel eksploracji:*** Sprawdzenie buttonów dodawania, usuwania zadań oraz ich edycji. |
-||
-||
 |***Procent realizacji celu:*** 100%|
 |***Obszary poddane eksploracji:*** Strona główna aplikacji, Kolumna ToDo|
 |<p>***Znalezione defekty podczas eksploracji:***</p><p><br>**D1.1 - Pole tekstowe zadania jest nieaktywne po jednym kliknięciu na zadanie.<br><br>Priorytet:** Średni<br><br>**Kroki reprodukcji:**<br>1. Klikamy na przycisk “+” w kolumnie ToDo i dodajemy nowe zadanie<br>2. Klikamy na karteczkę jednokrotnie<br><br>**Efekt oczekiwany:** Pole tekstowe zadania otwiera się i możemy wpisać nasz opis zadania<br>**Efekt rzeczywisty:** Pole tekstowe zadanie nie otwiera się <br><br>**Załączniki:<br><https://drive.google.com/file/d/1M1yl0Ph5rNeUKV-4P6WXmEwzoIXysiX1/view?usp=sharing>**</p><p></p><p></p><p></p><p>**D1.2 - Brak edycji tekstowej zadań.<br><br>Priorytet:** Wysoki<br><br>**Kroki reprodukcji:**<br>1. Klikamy na zadanie z opisem dwa razy aby edytować opis zadania<br>2. Wpisujemy nowy opis zadania np. “Zadanie nr 111111” i odklikujemy poza polem tekstowym<br><br>**Efekt oczekiwany:** Nowy wpis na karteczce zostanie zapisany. <br>**Efekt rzeczywisty:** Po zmianie lub edycji tekstowej zadań nowy wpis nie zostaje zapisany.<br><br>**Załączniki:**<br><https://drive.google.com/file/d/1Pc_xnsaFgGSWsFP5uyFg7hqZ01C0v17-/view?usp=sharing></p><p></p><p><br></p><p>**D1.3 - Brak ikonki edycji zadania<br><br>Priorytet:** Średni<br><br>**Kroki reprodukcji:**<br>1. Kursorem myszy najeżdżamy na zadanie<br><br>**Efekt oczekiwany:** W prawym dolnym rogu zadania wyświetlą nam się ikony edycji oraz kosza.<br>**Efekt rzeczywisty:** W prawym dolnym rogu zadania wytświetla nam się tylko ikona kosza.<br><br>**Załączniki: <br><https://drive.google.com/file/d/1y2eIckW_23i2YWLF25JydVSnZ7QJQjnF/view?usp=sharing>**</p>|
-||
-||
-||
-||
-||
-||
-||
 |<p>***Dodatkowe informacje:<br><br>Uwagi:***<br>1. Zadanie może być puste. Zadanie można zacząć wykonywać bez jego opisu.<br>Załącznik: <https://drive.google.com/file/d/1tCgWfYfO-xawnfYYM674MQ58nRv8G9XZ/view?usp=sharing><br><br>2. Zadanie może posiadać maksymalnie 256 znaków<br>Załącznik: <https://drive.google.com/file/d/1bewsQtHfi9N5wYnTSinQE5IirnrhC8V8/view?usp=sharing><br><br>***Sugestia***:<br>1. Brak edycji tekstu (kolor, rozmiar, czcionka) - Fajnie gdyby można było edytować tekst pod kątem wyboru czcionki, koloru rozmiaru. Karteczka też mogłaby mieć edycje np. koloru.</p><p></p>|
 |<p>**Użyte programy:** </p><p>Screenpresso (przechwytywanie ekranu)</p>|
-
