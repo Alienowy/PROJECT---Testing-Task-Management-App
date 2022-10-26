@@ -1,5 +1,5 @@
-| **Podsumowanie z sesji testów ekploracyjnych** |
-| --- |
+| **Podsumowanie z sesji testów ekploracyjnych** 
+
 *Autor:* Adrian Wąś
 *Data:*  26.03.2022r. 
 
@@ -44,3 +44,4 @@ Google Chrome     Wersja 99.0.4844.51
 
     Po zapoznaniu się z produktem i przetestowaniu go stwierdzono, że aplikacja działa lecz posiada liczne defekty, które uniemożliwiają wygodne korzystanie z aplikacji. Nie zaleca się udostępnienie jej dla użytkowników. Testowanie niefunkcjonalne wykazało, że strona nie jest w pełni responsywna. W przypadku korzystania z aplikacji na telefonie słaba responsywność i wykryte defekty w podstawowych funkcjonalnościach aplikacji powodują, że staje się to niemożliwe. Sam interfejs aplikacji jest intuicyjny i czytelny, ale żeby mieć pewność rozwinąłbym zakres testów o testy dostępności. Proces testowania funkcjonalnego wykazał kilka błędów oraz incydentów, które zostały szczegółowo opisane w sporządzanych wyżej raportach. Niektóre odkryte defekty są krytyczne, reszta utrudnia poprawne działanie aplikacji. 
 Warto jest przyjrzeć się sugestiom zawartym w raportach, gdyż usprawniłoby to aplikację oraz podniosło jej jakość końcową. |
+| --- |
