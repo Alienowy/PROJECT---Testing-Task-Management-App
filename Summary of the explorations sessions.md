@@ -3,7 +3,7 @@
 | *Autor:* Adrian Wąś
 *Data:*  26.03.2022r. | 
 
-Na rzecz przeprowadzenia testów eksploracyjnych aplikacji wykonano 6 sesji,  w których przetestowano funkcjonalnie najważniejsze ze względów użytkowania funkcje aplikacji oraz niefunkcjonalnie responsywność aplikacji.
+| Na rzecz przeprowadzenia testów eksploracyjnych aplikacji wykonano 6 sesji,  w których przetestowano funkcjonalnie najważniejsze ze względów użytkowania funkcje aplikacji oraz niefunkcjonalnie responsywność aplikacji. |
 
 *Przedmiot testów: [Pomodoro App](https://testujpl.gitlab.io/pomodoro-kanban-test/)
 
