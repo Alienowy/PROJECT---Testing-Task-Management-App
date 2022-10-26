@@ -4,7 +4,6 @@
 | :- | :- |
 |***Autor:*** Adrian Wąś|***Data i godzina rozpoczęcia testów:***<br>24.03.2022r. 12:20|
 |***Przedmiot testów:*** https://testujpl.gitlab.io/pomodoro-kanban-test/|
-||
 |***Środowisko testowe:*** <br>PC, Windows 10 Pro**<br>Google Chrome     Wersja 99.0.4844.51<br>Opera                    Wersja 85.0.4341.18<br>Firefox                   Wersja 98.0.2<br>Edge                     Wersja 99.0.1150.52|
 |**Czas trwania sesji:** 90 minut|
 |***Czas przygotowania środowiska:*** <br>10 min|***Czas eksploracji:***<br>50 min|***Czas raportowania:***<br>30 min|
